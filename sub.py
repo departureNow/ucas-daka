@@ -20,8 +20,8 @@ debug = False
 verify_cert = False
 
 # 全局变量
-user = "USERNAME"
-passwd = "PASSWORD"
+user = "603803551@qq.com"
+passwd = "mr980322"
 api_key = "API_KEY"
 
 smtp_port = "SMTP_PORT"
